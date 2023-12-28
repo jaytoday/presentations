@@ -5,6 +5,27 @@ slidenumbers: true
 
 ^ © 2016 Reginald Braithwaite. [Some rights reserved](http://creativecommons.org/licenses/by-sa/4.0/).
 
+^ Note to the reader: This document is written in [Markdown], a somewhat human-readable markup language. It is processed by a program called [DeckSet], which turns it into a presentation. DeckSet does various things such as treating every paragraph that begins with a caret (`^`) into a speaker's note that is not visible to the audience.
+
+[Markdown]: https://en.wikipedia.org/wiki/Markdown
+[DeckSet]: http://www.decksetapp.com
+
+^ You may be looking at a partially-rendered version of this document, thanks to GitHub's ability to render basic MarkDown in the browser as formatted text. If so, you can look at the original document by clicking the [Raw] link above.
+
+[Raw]: https://raw.githubusercontent.com/raganwald/presentations/master/optimism.md
+
+^ I delivered this presentation at [Nordic Ruby] in 2016. You watch see an "unofficial" video of the presentation on [YouTube]. You can also review the fully rendered slides on [SpeakerDeck] 
+
+[Nordic Ruby]: http://www.nordicruby.org
+[YouTube]: https://www.youtube.com/watch?v=8xjntzo-mYc
+[SpeakerDeck]: https://speakerdeck.com/raganwald/optimism
+
+^ Some people have pointed out that DeckSet's MarkDown is not an excellent format for reading the material as compared to an essay. This is true. In its favour, you can't read a PowerPoint or KeyNote presentation's raw file *at all*, nor can you do interesting things like submit your own [pull request] on GitHub, so MarkDown does have some interesting affordances.
+
+[pull request]: https://github.com/raganwald/presentations/pulls?q=is%3Apr+is%3Aclosed
+
+^ Thanks for reading this, and feel free to post an [Issue](https://github.com/raganwald/presentations/issues).
+
 ---
 
 # Optimism
@@ -48,7 +69,7 @@ slidenumbers: true
 
 ^ The book is "[Learned Optimism](http://www.amazon.com/gp/product/1400078393?ie=UTF8&amp;tag=raganwald001-20&amp;linkCode=as2&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1400078393 "Amazon.com: Learned Optimism: How to Change Your Mind and Your Life: Martin E. P. Seligman: Books")," by Dr. Martin Seligman. I'm not going to stand here and read the book aloud, you know that. But I am going to simplify it down to a few points, and you might very well think the book is too simplistic to be worth reading.
 
-^ But trust me on this:** You should not judge a book solely by whether you like what I said about it in a short talk**. Read it for yourself and decide.
+^ But trust me on this: **You should not judge a book solely by whether you like what I said about it in a short talk**. Read it for yourself and decide.
 
 ---
 
@@ -90,7 +111,7 @@ slidenumbers: true
 
 ^ His second claim is that with cognitive behavioural therapy, you can change the patterns in your explanations.
 
-^ Further, he claims that this increases increase your optimism. And that this changes your mood and your productivity.
+^ Further, he claims that this increases your optimism. And that this changes your mood and your productivity.
 
 ^ And again, he went out and tested his claim and again he has research he claims proves it.
 
@@ -159,7 +180,7 @@ slidenumbers: true
 ### summary
 # Personal vs. Impersonal
 
-^ So there's the first axis, *personal vs. impersonal*. We can listen to someone's explanations for why things happened in their life, and we can decide whether their explanations tend to be more personal or impersonal. In other words, we can *measure* personalization.
+^ So there's the first axis, *personal vs. impersonal*. We can listen to someone's explanations for why things happened in their lives, and we can decide whether their explanations tend to be more personal or impersonal. In other words, we can *measure* personalization.
 
 ^ Dr. Seligman did exactly that: He gathered lots of subjects and measured their personalization using objective criteria. He also measured their moods using standard criteria and furthermore, he measured their success in life, and the results were very interesting.
 
@@ -483,7 +504,7 @@ slidenumbers: true
 
 ^ There's a difference between criticizing words or code and criticizing people.
 
-^ If we want people to be able to change, he have to be specific in our criticism.
+^ If we want people to be able to change, we have to be specific in our criticism.
 
 ^ If we want performance to improve, if we want people to grow, our criticism by definition has to be temporary.
 
@@ -527,7 +548,7 @@ slidenumbers: true
 
 ^ I will tell you that my parents were hippies who demonstrated for civil rights. That work is far from done, but their generation left us a tremendous legacy: An understanding that things don't always have to be so.
 
-^ That belief is a belief that although society is, in general, good, there are specific things about it that are bad. And that this can be a temporary state of affairs. and that it's not us at fault.
+^ That belief is a belief that although society is, in general, good, there are specific things about it that are bad. And that this can be a temporary state of affairs. And that it's not us at fault.
 
 ^ Their legacy for me was a sense of optimism. A belief that my generation could take our talents and move the needle. Whether it's on a small scale or a large one. Whether it's on people, process, or society.
 
